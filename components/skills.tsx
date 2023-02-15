@@ -39,7 +39,7 @@ const Skills = () => {
             <Lottie options={nextJsOptions} style={nextJsLottieStyle} />
             <Lottie options={solidityOptions} style={solidityLottieStyle} />
           </div>
-          <div className="w-1/2 md:w-1/4 font-yekanbakhsemibold space-y-3 text-myDarkGray">
+          <div className="w-1/2 md:w-1/4 font-yekanbakhsemibold space-y-3 text-myDarkGray ">
             <p>JavaScript</p>
             <p className="pt-1">NodeJs</p>
             <p className="pt-1">NestJs</p>

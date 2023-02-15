@@ -41,8 +41,8 @@ const Skills = () => {
           </div>
           <div className="w-1/2 md:w-1/4 font-yekanbakhsemibold space-y-3 text-myDarkGray">
             <p>JavaScript</p>
-            <p>NodeJs</p>
-            <p>NestJs</p>
+            <p className="pt-1">NodeJs</p>
+            <p className="pt-1">NestJs</p>
             <p>MongoDB</p>
             <p>ReactJs</p>
             <p>NextJs</p>

@@ -45,7 +45,7 @@ export const mongodbOptions = {
 export const mongodbLottieStyle = {
   width: 30,
   height: 25,
-  marginTop: 7,
+  marginTop: 13,
   backgroundColor: "transparent",
 };
 
@@ -89,7 +89,7 @@ export const solidityOptions = {
 export const solidityLottieStyle = {
   width: 60,
   height: 60,
-  marginTop: -15,
+  marginTop: -12,
   marginLeft: -15,
   backgroundColor: "transparent",
 };

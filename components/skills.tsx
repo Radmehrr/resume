@@ -121,7 +121,7 @@ const Skills = () => {
             </div>
 
             {/* nodejs */}
-            <div className="flex mt-2">
+            <div className="flex mt-4">
               <p
                 className="text-yellow-400 font-bold text-xl -mt-1"
                 style={{ textShadow: "3px 3px 7px #FFFF00" }}
@@ -133,7 +133,7 @@ const Skills = () => {
             </div>
 
             {/* nestjs */}
-            <div className="flex mt-3">
+            <div className="flex mt-4">
               <p
                 className="text-yellow-400 font-bold text-xl -mt-1"
                 style={{ textShadow: "3px 3px 7px #FFFF00" }}

@@ -58,14 +58,14 @@ const Skills = () => {
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
-                <div className="w-5 h-3 md:w-4 md:h-4 bg-gray-200 rounded-full"></div>
+                <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
               </div>
 
               {/* NodeJs rate */}
               <div className="w-1/2 md:w-3/4 flex gap-2 mx-4 my-1">
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
-                <div className="w-5 h-3 md:w-4 md:h-4 bg-gray-200 rounded-full"></div>
+                <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-gray-200 rounded-full"></div>
               </div>
 
@@ -118,7 +118,7 @@ const Skills = () => {
                   className="text-yellow-400 font-bold text-xl -mt-1"
                   style={{ textShadow: "3px 3px 7px #FFFF00" }}
                 >
-                  3
+                  4
                 </p>
                 <span>/</span>
                 <p className="font-light text-sm mt-1">4</p>
@@ -130,7 +130,7 @@ const Skills = () => {
                   className="text-yellow-400 font-bold text-xl -mt-1"
                   style={{ textShadow: "3px 3px 7px #FFFF00" }}
                 >
-                  2
+                  3
                 </p>
                 <span>/</span>
                 <p className="font-light text-sm mt-1">4</p>

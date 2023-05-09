@@ -1,9 +1,9 @@
+const Rotate = require("react-reveal/Rotate");
+const Slide = require("react-reveal/Slide");
 import Image from "next/image";
 import Contact from "./contact";
 import Education from "./education";
 import Resume from "./resume";
-import Rotate from "react-reveal/Rotate";
-import Slide from "react-reveal/Slide";
 
 const Left = () => {
   return (

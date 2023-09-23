@@ -8,8 +8,8 @@ import {
   nodeJsOptions,
   mongodbLottieStyle,
   mongodbOptions,
-  reactJsLottieStyle,
-  reactJsOptions,
+  // reactJsLottieStyle,
+  // reactJsOptions,
   nextJsLottieStyle,
   nextJsOptions,
   solidityOptions,
@@ -39,8 +39,8 @@ const Skills = () => {
                 alt={"nestjs"}
               />
               <Lottie options={mongodbOptions} style={mongodbLottieStyle} />
-              <Lottie options={reactJsOptions} style={reactJsLottieStyle} />
-              <Lottie options={nextJsOptions} style={nextJsLottieStyle} />
+              {/* <Lottie options={reactJsOptions} style={reactJsLottieStyle} /> */}
+              {/* <Lottie options={nextJsOptions} style={nextJsLottieStyle} /> */}
               <Lottie options={solidityOptions} style={solidityLottieStyle} />
             </div>
             <div className="w-1/2 md:w-1/4 font-yekanbakhsemibold space-y-3 text-myDarkGray ">
@@ -48,8 +48,8 @@ const Skills = () => {
               <p className="pt-1">NodeJs</p>
               <p className="pt-1">NestJs</p>
               <p>MongoDB</p>
-              <p>ReactJs</p>
-              <p>NextJs</p>
+              {/* <p>ReactJs</p> */}
+              {/* <p>NextJs</p> */}
               <p>Solidity</p>
             </div>
             <div className="md:space-y-5 space-y-6 hidden md:inline">
@@ -86,20 +86,20 @@ const Skills = () => {
               </div>
 
               {/* ReactJs rate */}
-              <div className="w-1/2 md:w-3/4 flex gap-2 mx-4 my-1">
+              {/* <div className="w-1/2 md:w-3/4 flex gap-2 mx-4 my-1">
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-gray-200 rounded-full"></div>
-              </div>
+              </div> */}
 
               {/* NextJs rate */}
-              <div className="w-1/2 md:w-3/4 flex gap-2 mx-4 my-1">
+              {/* <div className="w-1/2 md:w-3/4 flex gap-2 mx-4 my-1">
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-yellow-400 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-gray-200 rounded-full"></div>
                 <div className="w-5 h-3 md:w-4 md:h-4 bg-gray-200 rounded-full"></div>
-              </div>
+              </div> */}
 
               {/* Solidity rate */}
               <div className="w-1/2 md:w-3/4 flex gap-2 mx-4 my-1">
@@ -173,7 +173,7 @@ const Skills = () => {
               </div> */}
 
               {/* nextjs */}
-              <div className="flex mt-3">
+              {/* <div className="flex mt-3">
                 <p
                   className="text-yellow-400 font-bold text-xl -mt-1"
                   style={{ textShadow: "3px 3px 7px #FFFF00" }}
@@ -182,7 +182,7 @@ const Skills = () => {
                 </p>
                 <span>/</span>
                 <p className="font-light text-sm mt-1">4</p>
-              </div>
+              </div> */}
 
               {/* solidity */}
               <div className="flex mt-3">

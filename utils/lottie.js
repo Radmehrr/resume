@@ -89,7 +89,7 @@ export const solidityOptions = {
 export const solidityLottieStyle = {
   width: 60,
   height: 60,
-  marginTop: -12,
+  marginTop: -5,
   marginLeft: -15,
   backgroundColor: "transparent",
 };

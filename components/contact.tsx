@@ -20,6 +20,7 @@ const Contact = () => {
 
           <div className="my-4 text-mygray text-sm md:text-base">
             <p>Address</p>
+            <p>Tehran/Tehran, 021</p>
             <p>Fars/Shiraz, 073</p>
           </div>
         </div>

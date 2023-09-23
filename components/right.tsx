@@ -14,7 +14,7 @@ const Right = () => {
         </Bounce>
         <LightSpeed cascade>
           <p className="font-normal md:text-lg text-sm mt-2">
-            Full-Stack Programmer
+            Back-End Programmer
           </p>
         </LightSpeed>
       </div>
